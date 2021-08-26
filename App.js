@@ -154,7 +154,8 @@ const styles = StyleSheet.create({
   mainView: {
     flexDirection: 'column',
     justifyContent: 'flex-end',
-    flex: 1
+    flex: 1,
+    backgroundColor: '#ffffff'
   },
   buttonView: {
     alignItems: 'center',
